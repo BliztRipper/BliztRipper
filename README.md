@@ -1,4 +1,4 @@
-# Hi 👋, I'm Blizt
+# Hi 👋, I'm Blizt | Clinical AI Specialist | Ph.D student in AI for Health System
 
 ### 10+ Experience in the Software Development industry
 
