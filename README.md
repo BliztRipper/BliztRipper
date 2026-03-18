@@ -2,10 +2,6 @@
 
 ### 10+ Experience in the Software Development industry
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BliztRipper&label=Profile views&color=0e75b6&style=flat" alt="BliztRipper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BliztRipper" alt="BliztRipper" /></a> </p>
-
 - 🔭 I'm currently working on **Clinical Pre-Screening MCI by using AI integrated Web Application**
 
 - 🌱 I'm currently learning **All AI stuff**
